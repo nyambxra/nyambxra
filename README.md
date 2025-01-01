@@ -1,6 +1,6 @@
 ## About Me
 Currently self-studying 
-- Machine Learning
+- machine learning
 - creative coding
 
 Feel free to follow along on my nervous breakthrough [here](https://nyambura.notion.site/Hi-I-m-Nyambura-16a242d35a7680ea8cb5e10bd52dfb70)
