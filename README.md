@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @nyambxra
-- 👀 I’m interested in YOU!
-- 🌱 I’m currently learning data science, and other stuff that tickle me fancy.
-- 💞️ I’m looking to collaborate on data driven projects 🦆
-- 📫 How to reach me (nyamburalindah53@outlook.com)
+## About Me
+Currently self-studying 
+- Machine Learning
+- creative coding
 
-<!---
-nyambxra/nyambxra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Feel free to follow along on my nervous breakthrough [here](https://nyambura.notion.site/Hi-I-m-Nyambura-16a242d35a7680ea8cb5e10bd52dfb70)
+
+
+
+## Would you like to confirm whether I am a robot?
+[Send me an email](lindahnyambura21@gmail.com) or send a DM on any of my socials linked.
